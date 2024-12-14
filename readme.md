@@ -1035,7 +1035,7 @@ _Fibonacci Series Flowchart_
 6. End.
 
 #### **Flowchart**:  
-_Sum of Series Flowchart_
+![Sum of Series Flowchart](image-1.png)
 
 ---
 
