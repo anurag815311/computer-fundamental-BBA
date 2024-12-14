@@ -992,8 +992,8 @@ Happy learning! 🎉
 
 
 Here’s a simple **Flowchart** for the tasks you mentioned:
-### college me master se puchna ki flow chart ayega kya kyoki tera previous year me diya tha..
-### link ----  (https://www.youtube.com/watch?v=QCBV_KrB4wk) (youtube ka video ) (click here)
+### college me teacher  se puchna ki flow chart ayega kya kyoki tera previous year me diya tha..
+### link ----  (https://www.youtube.com/watch?v=QCBV_KrB4wk) (youtube ka video )(for flowchart) (click here)
 ---
 
 
