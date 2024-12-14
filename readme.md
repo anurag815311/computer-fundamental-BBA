@@ -1052,7 +1052,7 @@ _Fibonacci Series Flowchart_
 6. End.
 
 #### **Flowchart**:  
-_Prime Check Flowchart_
+_Prime Check Flowchart_![prime flowchart](image-2.png)
 
 ---
 
@@ -1069,7 +1069,7 @@ _Prime Check Flowchart_
 6. End.
 
 #### **Flowchart**:  
-_Largest Element Flowchart_
+_Largest Element Flowchart_![largets element](image-3.png)
 
 ---
 
@@ -1087,7 +1087,7 @@ _Largest Element Flowchart_
 6. End.
 
 #### **Flowchart**:  
-_Sorting Flowchart_
+_Sorting Flowchart_![bubble sort](image-4.png)
 
 ---
 
