@@ -996,7 +996,6 @@ Here’s a simple **Flowchart** for the tasks you mentioned:
 ### link ----  (https://www.youtube.com/watch?v=QCBV_KrB4wk) (youtube ka video ) (click here)
 ---
 
-Here’s the full **README** file, customized and structured for GitHub:
 
 ---
 
@@ -1020,7 +1019,7 @@ The Fibonacci series is a sequence where each number is the sum of the two prece
 
 #### **Flowchart**:  
 _Fibonacci Series Flowchart_
-
+![Fibonacci](image.png)
 ---
 
 ## **2. Flowchart for Finding the Sum of a Series**  
