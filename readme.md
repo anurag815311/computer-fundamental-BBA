@@ -1,7 +1,7 @@
 
 ---
 
-```markdown
+
 ### **Basic Computer Concepts**  
 
 #### **1. Different Generations of Computer Hardware**  
@@ -66,7 +66,7 @@ Computers are grouped based on how they are used and their power:
 
 ---
 
-```markdown
+
 ### **Program Structure and Development Guidelines**  
 
 #### **1. Structure of Programs**  
@@ -88,7 +88,7 @@ To ensure programs are well-structured and maintainable:
 
 ---
 
-```markdown
+
 ### **Programming Languages and Algorithms**  
 
 #### **1. Programming Languages**  
@@ -124,7 +124,7 @@ To ensure programs are well-structured and maintainable:
 
 ---
 
-```markdown
+
 ### **Typical Algorithms**  
 
 #### **1. Algorithm for Finding the Sum of a Series**  
